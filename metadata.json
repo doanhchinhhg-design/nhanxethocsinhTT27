@@ -1,0 +1,5 @@
+{
+  "name": "Nhận Xét Học Sinh TT27",
+  "description": "Ứng dụng hỗ trợ giáo viên tạo nhận xét học sinh theo Thông tư 27/2020/TT-BGDĐT bằng AI Gemini, hỗ trợ 12 môn học và xử lý file Excel.",
+  "requestFramePermissions": []
+}
